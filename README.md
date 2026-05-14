@@ -22,13 +22,25 @@ Data Processing & Validation
 
 🛠️ Tech Stack
 <div align="center">
-👩‍💻 Languages & Tools
+### 👩‍💻 Languages & Tools
 <img src="https://skillicons.dev/icons?i=python,r,mysql,git,github,vscode"/>
-📊 BI & Visualization
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-🤖 Currently Exploring
+
+### 📊 BI & Visualization
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+
+<a href="https://github.com/Rajanidasthrice3/PowerBI-Projects/blob/main/Vahaan_Dashboard3.pbix">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+</a>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+
+### 🤖 Currently Exploring
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/> </div>
-📚 Currently Learning
+
+
+### 📚 Currently Learning
 <p align="center"> <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/> </p>
 
 🌱 Machine Learning
@@ -54,8 +66,13 @@ Data Processing & Validation
 ✨ Managed MIS reporting & analytics operations
 ✨ Improved quality metrics and team performance
 
-📈 GitHub Stats
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical"/> </p>
+## 📈 GitHub Stats
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Rajanidasthrice3&theme=radical" />
+</p>
 🏆 Certifications
 
 🏅 Python for Data Science
